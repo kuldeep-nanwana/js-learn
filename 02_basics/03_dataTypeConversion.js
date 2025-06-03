@@ -43,6 +43,8 @@ console.log(gameCounter);
 // check in log
 console.log(gameCounter++);
 
+// string operations
+console.log(1+"2"+3);
 
 
 
